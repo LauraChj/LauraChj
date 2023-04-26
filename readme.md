@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @LauraChj
+- # ! Hi, mi name is Laura Chanzá 👋
+
 - 👀 I’m interested in ... reading, dancing, sports, my pets, my friends and of course the technologies.
 - 🌱 I’m currently learning ... web application development at CIPFP in Cheste and crystal report.
 - 💞️ I’m looking to collaborate on ... data bases.
