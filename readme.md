@@ -1,4 +1,4 @@
-- # ! Hi, mi name is Laura Chanzá 👋
+- # Hi, mi name is Laura Chanzá! 👋
 
 - 👀 I’m interested in ... reading, dancing, sports, my pets, my friends and of course the technologies.
 - 🌱 I’m currently learning ... web application development at CIPFP in Cheste and crystal report.
