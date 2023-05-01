@@ -6,7 +6,7 @@
 
 
 
-const LauraChj = {
+<h2> const LauraChj = {
     pronouns: "She" | "Her",
     code: ["Javas, "SQL", "HTML"],
     askMeAbout: ["web dev", "tech", "app dev"],
@@ -23,13 +23,9 @@ const LauraChj = {
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "There are two ways to write error-free programs; only the third one works" <h2>
 };
 
-<!---
-LauraChj/LauraChj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 **Languages and Tools:** 
 
 <!-- Your github readme stats
@@ -53,3 +49,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code/-ar21.svg"></code>
+
+<!---
+LauraChj/LauraChj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
