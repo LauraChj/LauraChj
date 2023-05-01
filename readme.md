@@ -31,9 +31,10 @@
 
  
 <p>
- <a href="https://github.com/LauraChj/handle-path-oz">
-    <img width="55%" align="right" alt="Laura's github stats" src="https://github-readme-stats.vercel.app/api?username=laurachjr&show_icons=true&hide_border=true" />
+<a href="https://github.com/LauraChj">
+    <img width="55%" align="right" alt="Laura's github stats" src="https://github-readme-stats.vercel.app/api?username=LauraChj&show_icons=true&hide_border=true" />
   </a>
+
 
 
 
