@@ -5,8 +5,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:laxaju@gmail.com)
 
 
-
-<h2> const LauraChj = {
+```javascript
+ const LauraChj = {
     pronouns: "She" | "Her",
     code: ["Javas, "SQL", "HTML"],
     askMeAbout: ["web dev", "tech", "app dev"],
@@ -23,8 +23,9 @@
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works" <h2>
+    funFact: "There are two ways to write error-free programs; only the third one works" 
 };
+```
 
 **Languages and Tools:** 
 
@@ -47,7 +48,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code/-ar21.svg"></code>
 
 <!---
