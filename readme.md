@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/odiisea/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:laxaju@gmail.com)
 
-
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 ```javascript
  const LauraChj = {
     pronouns: "She" | "Her",
@@ -49,6 +49,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code/-ar21.svg"></code>
+ 
+ ![Profile Views](http://img.shields.io/badge/Profile%20Views-1134-blue)
 
 <!---
 LauraChj/LauraChj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
